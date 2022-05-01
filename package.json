@@ -1,0 +1,20 @@
+{
+  "name": "retail-ecommerce-back-end",
+  "version": "1.0.0",
+  "description": "retail e-commerce back end application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jenniwritescode/retail-ecommerce-back-end.git"
+  },
+  "author": "Jenni Hartman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jenniwritescode/retail-ecommerce-back-end/issues"
+  },
+  "homepage": "https://github.com/jenniwritescode/retail-ecommerce-back-end#readme"
+}
