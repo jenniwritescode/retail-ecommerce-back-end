@@ -1,4 +1,4 @@
-# retail-ecommerce-back-end
+# Retail E-Commerce Back-End
 
 ## Table of contents
 
@@ -25,11 +25,9 @@ To seed database data, run `npm run seed`.
 
 To run the application, type `npm start`.
 
-See demo video below for API commands using Insomnia.
+To test API calls, use Insomnia or a similar application.
 
 ## Links
-
-- [Link to Demo Video](https://drive.google.com/file/d/1-TikCIMvfTEy1oLPNZlQuBskX21Mzig9/view?usp=sharing)
 
 - [Link to GitHub Repo](https://github.com/jenniwritescode/retail-ecommerce-back-end)
 
